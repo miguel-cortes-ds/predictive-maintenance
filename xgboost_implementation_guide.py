@@ -10,9 +10,8 @@ narrows significantly. This guide helps you decide when the added complexity is 
 
 Key Question: Is 2-3% accuracy improvement worth sacrificing interpretability?
 
-Author: [Your Name]
+Author: Miguel Angel Cortés Ortiz
 Date: January 2026
-Version: 2.0 (Physics-Informed)
 """
 
 # ============================================================================
