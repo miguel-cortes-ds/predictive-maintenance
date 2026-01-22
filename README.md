@@ -451,7 +451,7 @@ Master's in Physics, CINVESTAV
 Transitioning to Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miguelacortiz)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:miguelangelcortesortiz7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://miguel-cortes-ds.github.io/)
 
 ---
