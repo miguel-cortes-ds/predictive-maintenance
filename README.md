@@ -446,13 +446,13 @@ if Overstrain_Ratio > 1.0:
 
 ## 📬 Contact
 
-**Your Name**  
+Miguel Angel Cortés Ortiz  
 Master's in Physics, CINVESTAV  
 Transitioning to Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/miguelacortiz)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://miguel-cortes-ds.github.io/)
 
 ---
 
